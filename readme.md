@@ -3,7 +3,7 @@
 > queryable, structured emoji metadata
 
 This is a dependency-free module for Node.js and browsers that exports a bunch
-of emoji metadata from [various sources]((#dev-dependencies)):
+of emoji metadata from [various sources](#dev-dependencies):
 
 ```js
 {
